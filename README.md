@@ -1,6 +1,8 @@
 # web3-plus.php
+
 ![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/fomo3d-wik)
 
 A php interface for interacting with the Ethereum blockchain and ecosystem.
 
